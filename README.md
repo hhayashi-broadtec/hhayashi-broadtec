@@ -1,19 +1,35 @@
-# About Me
+# I'm a Web Developer from Japan 👋 
 
-1. I'm a web frontend and backend developer from Japan
+## 💻 About Me
+Web開発長年やってます。バックエンドからフロントエンドまで幅広く対応可能です。
 
-2. My favorites are PHP, Ruby, Python, React.js, Next.js, TypeScript, Docker, AWS
+## 🚀 Professional Strengths
+- **言語**: PHP, Ruby, Python, TypeScript, Java, JavaScript
+- **フレームワーク**: Laravel, Symfony, Ruby on Rails, React.js Next.js , Vue.js, Nuxt.js
+- **クラウド**: AWS, Google Cloud Platform, OpenAI
+- **DevOps**: Docker, GitHub Actions
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hhayashi-broadtec&show_icons=true&locale=en&layout=compact)
+## 🛠 Technical Skills
 
-## Programming Languages
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=php,ruby,python,typescript,js,bash,java,c" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,rails,react,vue,nodejs,spring,django,next,nuxt" />
 
-## Frameworks and Library
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,jenkins,linux,vscode,figma,notion" />
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+### 💾 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis" />
 
-## DB and Dev Tools etc
+## 💡 Key Competencies
+- システム企画提案
+- 要件定義
+- 基本/詳細設計
+- 製造・構築
+- クラウドサービス (AWS)
+- アジャイル開発
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+## 🌱 Always Learning
+最新の技術トレンドにキャッチアップし、常に自己成長を目指しています。
