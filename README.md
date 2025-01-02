@@ -11,7 +11,7 @@ Web開発長年やってます。バックエンドからフロントエンド�
 
 ## 🛠 Technical Skills
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hhayashi-broadtec&show_icons=true&locale=en) 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hhayashi-broadtec&show_icons=true&locale=en&layout=donut) 
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=php,ruby,python,typescript,js,bash,java,c" />
