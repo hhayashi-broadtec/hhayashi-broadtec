@@ -11,7 +11,7 @@ Web開発長年やってます。バックエンドからフロントエンド�
 
 ## 🛠 Technical Skills
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hhayashi-broadtec&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hhayashi-broadtec&show_icons=true&locale=en) 
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=php,ruby,python,typescript,js,bash,java,c" />
@@ -29,7 +29,7 @@ Web開発長年やってます。バックエンドからフロントエンド�
 - システム企画提案
 - 要件定義
 - 基本/詳細設計
-- 製造・構築
+- 実装・構築・テスト
 - クラウドサービス (AWS)
 - アジャイル開発
 
